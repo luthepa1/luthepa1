@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Paul Luther. Im a Field Service Supervisor and Engineer in diagnostic healthcare, more specifically servicing instruments as the Red Cross Blood Service around the world.  I am based in Sydney Australia.
+- 👋 Hi, I’m Paul Luther. As a seasoned Field Service Engineer with over 25 years of experience in healthcare
+diagnostics, I possess a robust background in electronic engineering and computer systems.
+My career is marked by a proven track record of delivering exceptional customer support
+and building strong client relationships.  I am based in Sydney Australia.
 - 👀 I’m interested in computing, tech gadgets, coding (obviously), Formula 1.
-- 🌱 I’m currently learning ...  Well I wish to look into Rust as it seems very interesting and is taking off.  Also want to look into Flutter/dart.  But like usual too busy with work, being a father and constantly at the gym.
+- 🌱 I’m currently building a NUC PC that I am integrating into my car for a more modern infotainment system with integration into the car's canbus network.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - luthepa1@protonmail.com or luthepa1@gmail.com
+- 📫 How to reach me - luthepa10@gmail.com
 
 <!---
 luthepa1/luthepa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
